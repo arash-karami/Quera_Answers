@@ -1,2 +1,4 @@
 # Quera_Answers
-this is a repository for answers of Quera practices 
+"Hello I am Arash Karami"
+<br />
+"this is a repository for Quera questions"
